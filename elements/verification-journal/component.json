@@ -1,0 +1,9 @@
+{
+  "id": "n1",
+  "type": "container",
+  "props": {},
+  "styles": {
+    "base": {}
+  },
+  "children": []
+}

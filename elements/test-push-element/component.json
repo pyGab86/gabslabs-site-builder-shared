@@ -1,0 +1,37 @@
+{
+  "id": "zc_wc6Pp3B",
+  "tag": "p",
+  "type": "text",
+  "props": {
+    "wrap": "normal",
+    "columns": 1,
+    "content": "<p>Test partage repo distant</p>",
+    "dropCap": false,
+    "maxLines": 0,
+    "maxWidth": {},
+    "richText": true,
+    "columnGap": "var(--gl-space-6)",
+    "fitContent": true,
+    "dropCapAlign": "baseline",
+    "dropCapLines": 3
+  },
+  "styles": {
+    "base": {
+      "text-align": "center"
+    }
+  },
+  "effects": [
+    {
+      "kind": "underline"
+    },
+    {
+      "kind": "wave",
+      "options": {
+        "easing": "var(--gl-ease-custom)",
+        "stagger": 10,
+        "duration": 420,
+        "amplitude": 4
+      }
+    }
+  ]
+}
